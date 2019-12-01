@@ -1,7 +1,7 @@
 #Enter your Name and see the magic.
 #
 
-ime = input("Enter your name: \n\n")
+ime = input("Enter your name: (Auto Capitalization) \n\n")
 lngth = len(ime)
 l = ""
 
